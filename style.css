@@ -1,0 +1,234 @@
+
+body{
+    background-color: rgb(1, 42, 74);
+    background-image:rgb(1, 42,74);
+    margin-top: 0px;
+    font-family: serif;
+}
+
+
+
+.header{
+    text-align: center;
+    background-color: rgb(1, 42, 74);
+    color: whitesmoke;
+    margin-bottom: 0%;
+
+}
+.middle-container{
+    background-color:rgb(169, 214, 221);
+    height: 100%;
+width: 100%;
+text-align: center;
+margin-top: 0px;
+
+}
+
+.marvis{
+    border-radius: 40%;
+    
+    
+}
+
+p{
+
+
+    text-align: center;
+    justify-content: center;
+    margin: 20px 0 20px auto;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.3rem;
+    
+
+}
+.column{
+    font-size:1.1rem;
+    column-count: 3;
+    column:3 250px;
+     column-rule: 3px solid black;
+     column-gap: 3rem;
+}
+
+ .Span{
+ margin-top: 0;
+padding: 1rem;
+font-size: 2.2rem;
+text-align: center;
+column-span: all;
+margin-top: 2rem;
+}
+
+
+    .box-container{
+        background-color:rgb(1, 42, 74);
+        color: whitesmoke;
+        padding-top: 5px;
+    
+    }
+    .html{
+        border-left:rgb(169, 214, 221) double 5px;
+        border-top:rgb(169, 214, 221) double 5px;
+        border-radius: 100px;
+        height: 180px;
+        width:180px ;
+    }
+    
+    .css{
+        border-left: rgb(169, 214, 221) double 5px;
+        border-top: rgb(169, 214, 221) double 5px;
+        border-radius: 100%;
+        height: 180px;
+        width: 180px;
+    }
+    
+    
+        .java{
+            border-left: rgb(169, 214, 221) double 5px;
+        border-top: rgb(169, 214, 221) double 5px;
+        border-radius: 100%;
+        height: 180px;
+        width: 180px;
+        }
+        
+
+        .react{
+            border-left: rgb(169, 214, 221) double 5px;
+        border-top: rgb(169, 214, 221) double 5px;
+        border-radius: 100%;
+        height: 180px;
+        width: 180px;
+        }
+        
+
+
+        .skills{
+
+            display: flex;
+            justify-content: space-around;
+            padding: 50px;
+            margin: 0;
+            text-align: center;
+        }
+
+
+
+        .container-project{
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            text-align: center;
+            margin-top: 0px;
+            padding: 30px;
+            gap: 90px;
+            height: 60vh;
+
+        }
+
+
+        .image2{
+            width: 100px;
+            height: 100px;
+        }
+    
+             
+        .project-title{
+        
+            font-family: 'Times New Roman', Times, serif;
+            text-decoration: underline;
+            font-size:x-large;
+        }
+        
+        .span{
+            background-color: rgb(1, 42, 74);
+            color:white;
+        }
+
+
+
+        .testimonial{
+            color:whitesmoke;
+            display: flex;
+            justify-content: center;
+            text-align:center;
+            margin-top: 0px;
+            padding: 20px;
+            background-color:rgb(1, 42, 74);
+        }
+
+
+        .paragraph-testimonial{
+            background-color: #8f8c8c80;
+            border-radius: 10px;
+            padding: 20px;
+            color: whitesmoke;
+        }
+
+
+
+.button{
+    border-radius: 10px;
+    justify-content: center;
+    margin: 15px;
+    font-size:larger;
+    align-items: center;
+    font-weight: 300px;
+}
+
+ .footer{
+    display: flex;
+    justify-content: space-evenly;
+    align-items:flex-end;
+    padding: 50px;
+    background-color: rgb(1, 42, 74); 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          
+
+
+
+
+
+
+
+
+           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
